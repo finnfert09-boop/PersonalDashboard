@@ -37,7 +37,7 @@ startTime()
 
 function switchscreen3 () {
     ScreenReplace.innerHTML = ``
-    window.open(""); 
+    window.open("https://finnfert09-boop.github.io/Hi-mr.D-/"); 
 }
 
 
@@ -78,4 +78,5 @@ function checkTime(i) {
     }
     return i;
 }
+
 
